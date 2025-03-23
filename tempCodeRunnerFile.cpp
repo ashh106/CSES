@@ -1,2 +1,1 @@
-ll n ;
-// cin>>n;
+AAAACACBA

@@ -44,6 +44,7 @@ ll odd = 0;
                 j++;
                 flag++;
             } 
+            // string(freq[i] / 2, (char)(i + 'A'));
         }
         if(v[i]%2!=0 ){
             ll  k = 0 ;
